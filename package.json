@@ -1,0 +1,12 @@
+{
+  "name": "com.nishi1004.customcomponentsystem",
+  "version": "1.0.0",
+  "displayName": "Custom Component Sytem",
+  "description": "Customized Component System",
+  "author": {
+    "name": "Yo Nishioka"
+  },
+  "dependencies": {
+    "com.neuecc.unirx": "7.1.0"
+  }
+}
